@@ -5,4 +5,4 @@ this is the main branch
 new branch
 git checkout to feature branch
 Unable to write another code in git hub after writing git diff
-|
+|Unable to add filesgit status
